@@ -1,5 +1,5 @@
- Plugin Name
- ===========
+=== WP Cleanup and Basic Functions ===
+
 Contributors: guillaume-lostweb
 Donate link: http://lostwebdesigns.com
 Tags: cleanup, WordPress head cleanup, developers common functions, images settings, privacy settings, administration customizations
@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Head section cleanup and many usual custom settings used on every website setup as images settings and sizes, privacy, and basic admin customizations
 
-Description
-----------
+== Description ==
 
 WordPress Cleanup and Basic Options Functions is a utility plugin, even though it's was developed with a  focus on developers as many functionalities are what you might just add to every new website you build, it's really easy to use, just check the boxes corresponding to the set up you want.
 It will help you:
