@@ -5,7 +5,7 @@ Donate link: http://lostwebdesigns.com
 Tags: cleanup, WordPress head cleanup, developers common functions, images settings, privacy settings, administration customizations
 Requires at least: 3.5.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,9 @@ Yes, just make sure you know what the option will do before you check it. But al
 1. No screenshots yet
 
 == Changelog ==
+
+= 1.1 =
+Fixed a bug with image upload when Retina support was not checked, also added svg upload in the Media uploader.
 
 = 1.0.1 =
 Fixed some notice error making all checkboxes checked on first save and added possibility to enter your how CDN provider and version for jQuery
