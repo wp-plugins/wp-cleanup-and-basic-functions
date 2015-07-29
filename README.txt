@@ -5,7 +5,7 @@ Donate link: http://lostwebdesigns.com
 Tags: cleanup, WordPress head cleanup, developers common functions, images settings, privacy settings, administration customizations
 Requires at least: 3.5.1
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,9 @@ Yes, just make sure you know what the option will do before you check it. But al
 1. No screenshots yet
 
 == Changelog ==
+
+= 1.1.1 =
+Fixed a small bug for admin logo upload and some words typing errors
 
 = 1.1 =
 Fixed a bug with image upload when Retina support was not checked, also added svg upload in the Media uploader.
